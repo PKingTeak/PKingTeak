@@ -8,9 +8,9 @@
 
 
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)| <img width="1920" height="1080" alt="Google_MainCover" src="https://github.com/user-attachments/assets/0d61beaa-d748-46f0-9a05-635cb155e16e" />
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)| <img width="1920" height="1080" alt="Google_MainCover" src="https://github.com/user-attachments/assets/0d61beaa-d748-46f0-9a05-635cb155e16e" />(https://github.com/PKingTeak/Forge_Idle_mine)
 
-(https://github.com/PKingTeak/Forge_Idle_mine)
+
 
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
