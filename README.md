@@ -40,11 +40,14 @@
 [![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/PKingTeak/WinAPI_PKT)
 
 ---
-### C++ / DirectX11 - 크레이지 아케이드 모
-[![DirectX11](https://img.shields.io/badge/DirectX11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/PKingTeak/DirectX11-Projects)(https://github.com/PKingTeak/DX_Team_CrazyArcade)
-<a href = "https://github.com/seungjae94/DX_Team_CrazyArcade">
-<img src = "https://github.com/PKingTeak/PKingTeak/blob/main/Docs/%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%EC%95%84%EC%BC%80%EC%9D%B4%EB%93%9C.jpg" alt ="Craze Acade" width = "400">
+### C++ / DirectX11 - 크레이지 아케이드 모작
+
+[![DirectX11](https://img.shields.io/badge/DirectX11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/PKingTeak/DX_Team_CrazyArcade)
+
+<a href="https://github.com/seungjae94/DX_Team_CrazyArcade">
+  <img src="https://raw.githubusercontent.com/PKingTeak/PKingTeak/main/Docs/크레이지아케이드.jpg" alt="Crazy Arcade" width="400">
 </a>
+
 
 ---
 
