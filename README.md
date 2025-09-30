@@ -6,10 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...## 🛠 Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+## 🛠 Tech Stack
+- 🎯 C++
+- 🎯 C#
+- 🎮 Unity
+- 🎮 Unreal Engine
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
