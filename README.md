@@ -4,7 +4,7 @@
 (https://github.com/PKingTeak/WinAPI_PKT)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![7DaysToDie(모작)(](https://github.com/PKingTeak/TextRPGTeam17)
+![7DaysToDie(모작)(https://github.com/PKingTeak/PKingTeak/blob/main/Docs/7DaysToDIe.png)](https://github.com/PKingTeak/TextRPGTeam17)
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 (https://github.com/ShrimpDan/Forge_Idle)
