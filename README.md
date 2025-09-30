@@ -40,7 +40,8 @@
 [![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/PKingTeak/WinAPI_PKT)
 
 ---
-### 
+### C++ / DirectX11 - 크레이지 아케이드 모
+[![DirectX11](https://img.shields.io/badge/DirectX11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/PKingTeak/DirectX11-Projects)(https://github.com/PKingTeak/DX_Team_CrazyArcade)
 
 
 ---
