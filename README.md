@@ -31,7 +31,40 @@
 
 ---
 
-### 🔹 C++ / WinAPI - Window GDI+ Practice
+### 🔹 C++ / WinAPI - 알카노이드 모작 Hi there 👋
+
+저는 **게임 클라이언트 개발자**로, Unity · Unreal · WinAPI · C++/C#을 활용한 프로젝트들을 진행하고 있습니다.  
+데이터 주도 설계, 최적화, 그리고 다양한 툴(Figma, Draw.io, Google Sheets)을 활용하여 협업과 개발 효율을 높이고 있습니다.
+
+---
+
+## 🛠 Tech Stack
+
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/PKingTeak/WinAPI_PKT)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/PKingTeak/TextRPGTeam17)
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/ShrimpDan/Forge_Idle)
+[![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)](https://github.com/PKingTeak/7days-to-survive-END-)
+[![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/PKingTeak/WinAPI_PKT)
+
+---
+
+## 🎮 Projects
+
+### 🔹 Unity - 무기팔아먹고삽니다
+<a href="https://github.com/ShrimpDan/Forge_Idle">
+  <img src="https://github.com/user-attachments/assets/0d61beaa-d748-46f0-9a05-635cb155e16e" alt="Unity Project" width="600">
+</a>
+
+---
+
+### 🔹 Unreal Engine - 7 Days to Survive (END)
+<a href="https://github.com/PKingTeak/7days-to-survive-END-">
+  <img src="https://raw.githubusercontent.com/PKingTeak/PKingTeak/main/Docs/7DaysToDie.png" alt="Unreal Project" width="600">
+</a>
+
+---
+
+### 🔹 C++ / WinAPI - 알카노이드 모작
 <a href="https://github.com/PKingTeak/ArkanoidReleaseMode">
   <img src="https://raw.githubusercontent.com/PKingTeak/PKingTeak/main/Docs/WinAPI.png" alt="WinAPI Project" width="600">
 </a>
