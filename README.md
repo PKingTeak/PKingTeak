@@ -38,11 +38,11 @@
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/ShrimpDan/Forge_Idle)
 [![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)](https://github.com/PKingTeak/7days-to-survive-END-)
 [![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/PKingTeak/WinAPI_PKT)
+[![DirectX11](https://img.shields.io/badge/DirectX11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/PKingTeak/DX_Team_CrazyArcade)
 
 ---
 ### C++ / DirectX11 - 크레이지 아케이드 모작
 
-[![DirectX11](https://img.shields.io/badge/DirectX11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/PKingTeak/DX_Team_CrazyArcade)
 
 <a href="https://github.com/seungjae94/DX_Team_CrazyArcade">
   <img src="https://raw.githubusercontent.com/PKingTeak/PKingTeak/main/Docs/크레이지아케이드.jpg" alt="Crazy Arcade" width="400">
