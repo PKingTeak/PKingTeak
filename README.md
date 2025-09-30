@@ -1,7 +1,7 @@
 ## Hi there 👋
 ##  🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/!%5BC%23%5D)
 <!--
 **PKingTeak/PKingTeak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
