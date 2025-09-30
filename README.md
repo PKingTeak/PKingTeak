@@ -1,7 +1,6 @@
 ## Hi there 👋
 ##  🛠 Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) [![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/PKingTeak/WinAPI_PKT)
-
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)[![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/PKingTeak/WinAPI_PKT)
 (https://github.com/PKingTeak/WinAPI_PKT)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
