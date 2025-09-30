@@ -8,9 +8,9 @@
 
 
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-(https://github.com/user-attachments/assets/c4c94608-be1b-403a-b6bd-bec628ed87a0)
-(https://github.com/ShrimpDan/Forge_Idle)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)| ![대장간](https://github.com/user-attachments/assets/6d0487b9-155b-4c27-aef5-e9379d1c5f07)
+(https://github.com/PKingTeak/Forge_Idle_mine)
+
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 [![7DaysToDie](https://github.com/PKingTeak/PKingTeak/raw/main/Docs/7DaysToDie.png)](https://github.com/PKingTeak/7days-to-survive-END-)
