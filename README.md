@@ -19,6 +19,7 @@
 
 ### 🔹 Unity - 무기팔아먹고삽니다
 ●담당 - 손님,튜토리얼,광산미니게임,통합 시간 관리
+
 <a href="https://github.com/ShrimpDan/Forge_Idle">
   <img src="https://github.com/user-attachments/assets/0d61beaa-d748-46f0-9a05-635cb155e16e" alt="Unity Project" width="600">
 </a>
