@@ -15,7 +15,7 @@
 
 ---
 
-## 🎮 Projects
+## 🎮 대표 프로젝트
 
 ### 🔹 Unity - 무기팔아먹고삽니다
 <a href="https://github.com/ShrimpDan/Forge_Idle">
@@ -48,21 +48,6 @@
 
 ---
 
-## 🎮 Projects
-
-### 🔹 Unity - 무기팔아먹고삽니다
-<a href="https://github.com/ShrimpDan/Forge_Idle">
-  <img src="https://github.com/user-attachments/assets/0d61beaa-d748-46f0-9a05-635cb155e16e" alt="Unity Project" width="600">
-</a>
-
----
-
-### 🔹 Unreal Engine - 7 Days to Survive (END)
-<a href="https://github.com/PKingTeak/7days-to-survive-END-">
-  <img src="https://raw.githubusercontent.com/PKingTeak/PKingTeak/main/Docs/7DaysToDie.png" alt="Unreal Project" width="600">
-</a>
-
----
 
 ### 🔹 C++ / WinAPI - 알카노이드 모작
 <a href="https://github.com/PKingTeak/ArkanoidReleaseMode">
