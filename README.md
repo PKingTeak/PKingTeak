@@ -32,7 +32,7 @@
 ---
 
 ### 🔹 C++ / WinAPI - Window GDI+ Practice
-<a href="https://github.com/PKingTeak/WinAPI_PKT">
+<a href="https://github.com/PKingTeak/ArkanoidReleaseMode">
   <img src="https://raw.githubusercontent.com/PKingTeak/PKingTeak/main/Docs/WinAPI.png" alt="WinAPI Project" width="600">
 </a>
 
