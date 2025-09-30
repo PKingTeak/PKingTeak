@@ -1,47 +1,52 @@
-## Hi there 👋
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-[<img width="1920" height="1080" alt="Google_MainCover" src="https://github.com/user-attachments/assets/0d61beaa-d748-46f0-9a05-635cb155e16e"/>](https://github.com/PKingTeak/Forge_Idle_mine)
+# Hi there 👋
 
+저는 **게임 클라이언트 개발자**로, Unity · Unreal · WinAPI · C++/C#을 활용한 프로젝트들을 진행하고 있습니다.  
+데이터 주도 설계, 최적화, 그리고 다양한 툴(Figma, Draw.io, Google Sheets)을 활용하여 협업과 개발 효율을 높이고 있습니다.
 
+---
 
+## 🛠 Tech Stack
 
-![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-[![7DaysToDie](https://github.com/PKingTeak/PKingTeak/raw/main/Docs/7DaysToDie.png)](https://github.com/PKingTeak/7days-to-survive-END-)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/PKingTeak/WinAPI_PKT)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/PKingTeak/TextRPGTeam17)
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/ShrimpDan/Forge_Idle)
+[![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)](https://github.com/PKingTeak/7days-to-survive-END-)
+[![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/PKingTeak/WinAPI_PKT)
 
+---
 
+## 🎮 Projects
 
-##  🛠 Skills
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)[![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/PKingTeak/WinAPI_PKT)
-(https://github.com/PKingTeak/WinAPI_PKT)
+### 🔹 Unity - 무기팔아먹고삽니다
+<a href="https://github.com/ShrimpDan/Forge_Idle">
+  <img src="https://github.com/user-attachments/assets/0d61beaa-d748-46f0-9a05-635cb155e16e" alt="Unity Project" width="600">
+</a>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-(https://github.com/PKingTeak/TextRPGTeam17)
+---
+
+### 🔹 Unreal Engine - 7 Days to Survive (END)
+<a href="https://github.com/PKingTeak/7days-to-survive-END-">
+  <img src="https://raw.githubusercontent.com/PKingTeak/PKingTeak/main/Docs/7DaysToDie.png" alt="Unreal Project" width="600">
+</a>
+
+---
+
+### 🔹 C++ / WinAPI - Window GDI+ Practice
+<a href="https://github.com/PKingTeak/WinAPI_PKT">
+  <img src="https://raw.githubusercontent.com/PKingTeak/PKingTeak/main/Docs/WinAPI.png" alt="WinAPI Project" width="600">
+</a>
+
+---
+
+## 🧰 Tools
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://app.diagrams.net/)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/)
 
+---
 
+## 📫 Contact
 
-<!--
-**PKingTeak/PKingTeak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...## 🛠 Tech Stack
-## 🛠 Tech Stack
-- 🎯 C++
-- 🎯 C#
-- 🎮 Unity
-- 🎮 Unreal Engine
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: [@PKingTeak](https://github.com/PKingTeak)
+- Email: your_email@example.com
