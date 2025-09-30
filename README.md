@@ -49,9 +49,11 @@
 
 
 ### 🔹 C++ / WinAPI - 알카노이드 모작
+### 🔹 C++ / WinAPI - 알카노이드 모작
 <a href="https://github.com/PKingTeak/ArkanoidReleaseMode">
-  <img src="https://raw.githubusercontent.com/PKingTeak/PKingTeak/main/Docs/알카노이드.png" alt="Arkanoid Project" width="600">
+  <img src="https://raw.githubusercontent.com/PKingTeak/PKingTeak/main/Docs/알카노이드.png" alt="Arkanoid Project" width="400">
 </a>
+
 
 ---
 
