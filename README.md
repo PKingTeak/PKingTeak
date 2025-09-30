@@ -31,13 +31,6 @@
 
 ---
 
-### 🔹 C++ / WinAPI - 알카노이드 모작 Hi there 👋
-
-저는 **게임 클라이언트 개발자**로, Unity · Unreal · WinAPI · C++/C#을 활용한 프로젝트들을 진행하고 있습니다.  
-데이터 주도 설계, 최적화, 그리고 다양한 툴(Figma, Draw.io, Google Sheets)을 활용하여 협업과 개발 효율을 높이고 있습니다.
-
----
-
 ## 🛠 Tech Stack
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/PKingTeak/WinAPI_PKT)
@@ -47,6 +40,11 @@
 [![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/PKingTeak/WinAPI_PKT)
 
 ---
+### 
+
+
+---
+
 
 
 ### 🔹 C++ / WinAPI - 알카노이드 모작
