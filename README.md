@@ -10,7 +10,8 @@
 (https://github.com/ShrimpDan/Forge_Idle)
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![7DaysToDie(https://github.com/PKingTeak/PKingTeak/blob/main/Docs/7DaysToDIe.png)]
+[![7DaysToDie](https://github.com/PKingTeak/PKingTeak/raw/main/Docs/7DaysToDie.png)](https://github.com/PKingTeak/7days-to-survive-END-)
+
 (https://github.com/PKingTeak/7days-to-survive-END-)
 
 <!--
