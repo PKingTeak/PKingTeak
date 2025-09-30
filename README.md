@@ -18,6 +18,7 @@
 ## 🎮 대표 프로젝트
 
 ### 🔹 Unity - 무기팔아먹고삽니다
+●담당 - 손님,튜토리얼,광산미니게임,통합 시간 관리
 <a href="https://github.com/ShrimpDan/Forge_Idle">
   <img src="https://github.com/user-attachments/assets/0d61beaa-d748-46f0-9a05-635cb155e16e" alt="Unity Project" width="600">
 </a>
@@ -25,6 +26,7 @@
 ---
 
 ### 🔹 Unreal Engine - 7 Days to Survive (END)
+●담당 - UI담당
 <a href="https://github.com/PKingTeak/7days-to-survive-END-">
   <img src="https://raw.githubusercontent.com/PKingTeak/PKingTeak/main/Docs/7DaysToDie.png" alt="Unreal Project" width="600">
 </a>
@@ -42,7 +44,7 @@
 
 ---
 ### C++ / DirectX11 - 크레이지 아케이드 모작
-
+● 담당 - UI담당
 
 <a href="https://github.com/seungjae94/DX_Team_CrazyArcade">
   <img src="https://raw.githubusercontent.com/PKingTeak/PKingTeak/main/Docs/크레이지아케이드.jpg" alt="Crazy Arcade" width="400">
@@ -52,7 +54,7 @@
 ---
 
 
-### 🔹 C++ / WinAPI - 알카노이드 모작
+### 🔹 C++ / WinAPI - 알카노이드 모작(1인)
 <a href="https://github.com/PKingTeak/ArkanoidReleaseMode">
   <img src="https://raw.githubusercontent.com/PKingTeak/PKingTeak/main/Docs/알카노이드.png" alt="Arkanoid Project" width="400">
 </a>
