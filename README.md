@@ -75,4 +75,4 @@
 ## 📫 Contact
 
 - GitHub: [@PKingTeak](https://github.com/PKingTeak)
-- Email: your_email@example.com
+- Email: rudxorrmrwkd@gmail.com
